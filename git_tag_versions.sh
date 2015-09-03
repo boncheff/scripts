@@ -2,6 +2,7 @@
 
 # ---------------------------------------------------------
 # Script used to increment git tag version
+# Assumes existing git tags follow semantic versioning format (http://semver.org/)
 # ---------------------------------------------------------
 #
 # Parameters
