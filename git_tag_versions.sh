@@ -6,7 +6,7 @@
 # ---------------------------------------------------------
 #
 # Parameters
-# --doit : Executes the commands - If this is not passed, script runs in dry
+# --doit : Executes the commands - If this is not passed, script runs in dry-run
 # mode
 
 DEVELOP_BRANCH="develop"
